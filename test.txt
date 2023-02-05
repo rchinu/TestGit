@@ -1,1 +1,4 @@
 Random test. This is my first text file.
+This is an updated second line.
+This is an updated third line.
+This is an updated fourth line.
